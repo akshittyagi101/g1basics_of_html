@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    background-color: aliceblue;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    flex-direction:row;
+    justify-content:center;
+    align-items: center;
+    border-radius: 10px;
+    
+
+}
+
